@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto_VB_12D/1.0.0": {
+        "runtime": {
+          "Projeto_VB_12D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_VB_12D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
