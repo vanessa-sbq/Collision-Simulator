@@ -41,3 +41,6 @@ C - Kinetic energy simulation
 <p align="center">
 <img src="https://github.com/vanessa-sbq/Collision-Simulator/blob/ded9175dd0d9870bd5714fc4e3b86cca49ad7cf7/Images/kineticOption.png" width="600" height="350"/>
 </p>
+
+## How to Run the Project
+If you want to run this project, I would recommend opening the Visual Basic solution with Visual Studio. You will need to have .NET installed. The project interface might look weird if your screen resolution is not set to the default.  
