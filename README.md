@@ -1,6 +1,6 @@
 # Collision-Simulator
 
-This simulator demonstrates the change in velocity, linear momentum, and kinetic energy after the collision of two bodies under given initial conditions of mass and velocity, taking into account a restitution factor that can vary between 0 and 1. The simulation also shows the bodies in motion based on the introduced parameters.
+This simulator inspired by [Walter Fendt's Collision Simulator](https://www.walter-fendt.de/html5/phpt/collision_pt.htm) demonstrates the change in velocity, linear momentum, and kinetic energy after the collision of two bodies under given initial conditions of mass and velocity, taking into account a restitution factor that can vary between 0 and 1. The simulation also shows the bodies in motion based on the introduced parameters.
 
 <p align="center">
 <img src="https://github.com/vanessa-sbq/Collision-Simulator/blob/4499cdfedb1ced33d8a0473c0e5991a1b65ac38c/Images/collisionSim.gif" width="600" height="350"/>
