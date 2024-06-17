@@ -26,12 +26,18 @@ This simulator inspired by [Walter Fendt's Collision Simulator](https://www.walt
 
 A - Velocity simulation 
 
-<img src="https://github.com/vanessa-sbq/Collision-Simulator/blob/4499cdfedb1ced33d8a0473c0e5991a1b65ac38c/Images/velocityOption.png" width="600" height="350"/>
+<p align="center">
+<img src="https://github.com/vanessa-sbq/Collision-Simulator/blob/ded9175dd0d9870bd5714fc4e3b86cca49ad7cf7/Images/velocityOption.png" width="600" height="350"/>
+</p>
 
 B - Linear momentum simulation
 
-<img src="https://github.com/vanessa-sbq/Collision-Simulator/blob/4499cdfedb1ced33d8a0473c0e5991a1b65ac38c/Images/a" width="600" height="350"/>
+<p align="center">
+<img src="https://github.com/vanessa-sbq/Collision-Simulator/blob/ded9175dd0d9870bd5714fc4e3b86cca49ad7cf7/Images/LMOption.png" width="600" height="350"/>
+</p>
 
 C - Kinetic energy simulation
 
-<img src="https://github.com/vanessa-sbq/Collision-Simulator/blob/4499cdfedb1ced33d8a0473c0e5991a1b65ac38c/Images/b" width="600" height="350"/>
+<p align="center">
+<img src="https://github.com/vanessa-sbq/Collision-Simulator/blob/ded9175dd0d9870bd5714fc4e3b86cca49ad7cf7/Images/kineticOption.png" width="600" height="350"/>
+</p>
